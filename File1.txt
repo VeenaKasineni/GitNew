@@ -1,4 +1,4 @@
-C:\Users\15108\Desktop\GitExample
+C:\Users\15108\Desktop\GitNew
 git init
 2) git add File1.txt
 3) git config --global user.email "you@example.com"
@@ -6,6 +6,10 @@ git init
 5) git commit -m "First Commit"
 6) git remote add origin https://github.com/nicks204/GitExample.git
 7) git push origin master
+
+--------------
+to create branch and create files
+------------------------
 git checkout  -b branch1
 git branch
 git status
@@ -13,6 +17,27 @@ git add Fil1.txt
 git commit -m "second commit"
 git push origin branch1
 
+-----------------------------
 
-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
+to check where am I
+--------------------------
+
+git branch
+----------------------
+To change to Master 
+-------------------------
+git push origin master
+
+-------------------
+to get pull from master
+---------------------------
+git pull origin master
+-----------------------
+
+
+
+
+
+
+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
 
